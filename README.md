@@ -5,15 +5,16 @@ A modern take on the classic Bomberman game! Compete against other players by st
 
 - 17x15 battle ground.
 - 2-4 players required.
+- Players start with 3HP
 - Bombs explode in cross-pattern.
   - Max Coverage: 5 tiles horizontally and vertically.
   - Damage: -1.5 HP
-  - Max Count: 3
+  - Max Storage: 3
   - Activation Time: 2s
 - Fireballs shoot straight forward till object is hit.
   - Max Coverage: Full width or height
   - Deals -0.5 HP
-  - Max Count: 5
+  - Max Storage: 5
   - Activation Time: 0s
 ---
 
@@ -21,7 +22,7 @@ A modern take on the classic Bomberman game! Compete against other players by st
 
 - **Move:**  
   Up: ⬆️(W)  
-  Left: ⬅️(A)
+  Left: ⬅️(A)  
   Down: ⬇️(S)  
   Right: ➡️(D)
 
