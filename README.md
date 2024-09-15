@@ -1,7 +1,7 @@
 # **Bomber Man: Battle Royale Edition**
 
 **Description:**  
-A modern take on the classic Bomberman game! Compete against other players by strategically placing bombs, moving bombs, shooting fireballs, dodging explosions, and trying to be the last one standing.
+A modern take on the classic Bomberman game! Compete against other players by strategically placing bombs, shooting fireballs, dodging explosions, and trying to be the last one standing.
 
 - 17x15 battle ground.
 - 2-4 players required.
