@@ -21,14 +21,14 @@ A modern take on the classic Bomberman game! Compete against other players by st
 ### **Controls:**
 
 - **Move:**  
-  Up: ⬆️(W)  
-  Left: ⬅️(A)  
-  Down: ⬇️(S)  
-  Right: ➡️(D)
+  Up: ⬆️(w)  
+  Left: ⬅️(a)  
+  Down: ⬇️(s)  
+  Right: ➡️(d)
 
 - **Place Bomb:** SPACEBAR
 
-- **Change Attack**: LETTER-KEYS NOT WASD
+- **Change Attack**: c or m
   
 ---
 
